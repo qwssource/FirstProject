@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "4qXs9E8usBCJa0u1mkMt6qIRU7FRM7C+hrwSIRTeLxU=",
+  "Source": "jenkens",
+  "BasePath": "_content/jenkens",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
