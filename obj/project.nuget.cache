@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "gIhZ7/8OKYIEMA/7Yds+yT29uUf5E6L8lDaLMOGMC4MXEx7FgpO9Jh3BYZqRqSSD79sPZ6unHGwCiqOIJWIp7A==",
+  "dgSpecHash": "IYyzc1d2RqRZbpz92GQCeW0jTkA1YxnS8gHOvWH0DE+kwOEeeHbVfHkKGsE9xTM1xbKcHL11rDNqbgahQlX99g==",
   "success": true,
   "projectFilePath": "E:\\jenkinsProject\\jenkens\\jenkens.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\qws\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\qws\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\qws\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.14.0\\microsoft.visualstudio.azure.containers.tools.targets.1.14.0.nupkg.sha512",
     "C:\\Users\\qws\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
     "C:\\Users\\qws\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
     "C:\\Users\\qws\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
